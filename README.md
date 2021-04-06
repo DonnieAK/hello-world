@@ -1,2 +1,2 @@
 # hello-world
-Tutorial for schoo, I guess.
+Tutorial for school, I guess.
